@@ -4,7 +4,7 @@
 This project has been developed as part of the 50p-HackNight hackathon hosted by HasGeek. This project has also won the first prize in the hackathon.  
 
 ##About DonateBit
-This is a facebook chat bot that provides a payment platform (supporting bitcoins) for Donating to NGOs. It supports the belwo features:    
+This is a facebook chat bot that provides a payment platform (supporting bitcoins) for Donating to NGOs. It supports the below features:    
 1.Users can select different categories based NGOs.  
 2.Based on the categories, the users can see the various NGOs that fall under these categories.  
 3.By selecting one of the NGOs, the user can input how much he/she are willing to donate.  
